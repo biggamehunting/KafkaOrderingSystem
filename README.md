@@ -1,2 +1,2 @@
 # KafkaOrderingSystem
-kafka ordering
+kafka ordering example practice
